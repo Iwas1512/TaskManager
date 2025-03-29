@@ -2,7 +2,7 @@
 
 A simple and intuitive task management application built with React Native and Expo.
 
-#Video-Show Case
+# Video-Show Case
 https://youtu.be/MUgAz5Zm5fA
 
 ## Features

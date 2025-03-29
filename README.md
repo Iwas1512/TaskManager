@@ -2,6 +2,9 @@
 
 A simple and intuitive task management application built with React Native and Expo.
 
+![image](https://github.com/user-attachments/assets/8b45c7a6-0e1d-4204-80ca-0926d050bfd1)
+
+
 # Video-Show Case
 https://youtu.be/MUgAz5Zm5fA
 
@@ -56,8 +59,7 @@ npx expo start
    - Tap the checkbox next to the task
 
 3. To delete a task:
-   - Swipe left on the task
-   - Tap the delete button
+   - Tap the delete button/icon
 
 ## Technologies Used
 

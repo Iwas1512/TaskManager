@@ -23,7 +23,7 @@ https://youtu.be/MUgAz5Zm5fA
 - Expo CLI
 - Expo Go app on your mobile device (for testing)
 
-## Installation
+## Installation:
 
 1. Clone the repository:
 ```bash

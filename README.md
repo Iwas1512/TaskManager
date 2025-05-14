@@ -5,7 +5,7 @@ A simple and intuitive task management application built with React Native and E
 ![image](https://github.com/user-attachments/assets/8b45c7a6-0e1d-4204-80ca-0926d050bfd1)
 
 
-# Video-Show Case:
+# Video-Show Case
 https://youtu.be/MUgAz5Zm5fA
 
 ## Features
